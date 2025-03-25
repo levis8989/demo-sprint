@@ -1,2 +1,6 @@
-service: 
-  name: Service A Dev env
+datasource:
+  primary:
+    database:
+      jdbc-url: jdbc:mysql://jdbv-mysql:3306/sprdb
+      username: sprlv
+      password: E7dsTLqQchVgKYZ
